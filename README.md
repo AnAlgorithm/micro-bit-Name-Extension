@@ -1,6 +1,5 @@
 
-> Open this page at [https://analgorithm.github.io/micro-bit-name-extension/](https://analgorithm.github.io/micro-bit-name-extension/)
-
+> Open this page at [https://analgorithm.github.io/micro-bit-Name-Extension/](https://analgorithm.github.io/micro-bit-Name-Extension)
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
