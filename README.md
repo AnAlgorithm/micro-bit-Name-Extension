@@ -17,3 +17,4 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/analgorithm/micro-bit-name-extension** and click import
 
+For more, visit the [Wiki](https://github.com/AnAlgorithm/micro-bit-Name-Extension/wiki) .
